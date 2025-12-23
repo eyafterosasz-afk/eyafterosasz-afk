@@ -1,47 +1,74 @@
-# 👋 Hi, I'm Yafte Rosas
+# 👋 Hi, I'm Eber (Yafte) Rosas
 
-💻 IT professional with experience in **Electronic Data Interchange (EDI)**, currently transitioning into **Cybersecurity**.
+🎓 **Systems and Communications Engineer**  
+💼 **EDI Support Engineer / EDI Mapping System Analyst**  
+🔐 Transitioning into **Cybersecurity**
 
-I have hands-on experience working with **EDIFACT and ANSI X12**, understanding business-critical data flows, data integrity, and operational processes. This background has motivated me to move into cybersecurity, where protecting data, systems, and organizations is essential.
+I am an IT professional with over **4 years of experience in EDI implementations**, working with **ANSI X12 and EDIFACT standards**, enterprise integrations, and secure data exchanges. I have strong exposure to business-critical systems, data integrity, and communication protocols, which naturally led me to expand my career into **Cybersecurity**.
 
 ---
 
-## 🔐 Cybersecurity Journey
-I am currently developing my cybersecurity skills through the **Google Cybersecurity Certificate**, focusing on foundational and practical security concepts.
+## 🔐 Cybersecurity Development
+I am currently strengthening my cybersecurity skills through formal training and hands-on learning, with a focus on protecting information, systems, and integration processes.
 
-### Areas I am learning and practicing:
+### Key cybersecurity areas I am developing:
 - CIA Triad (Confidentiality, Integrity, Availability)
-- Risk management and threat identification
-- Log analysis and basic incident detection
+- Risk management and information security fundamentals
+- Log analysis and incident detection concepts
 - SIEM fundamentals
 - NIST Cybersecurity Framework (CSF)
+- ISO 27001 fundamentals
 - Protection of sensitive data (PII)
+- Basic penetration testing concepts
 
-My goal is to pursue an **entry-level cybersecurity role**, such as **SOC Analyst Junior**, where I can continue learning while contributing to security operations.
+My career goal is to move into an **entry-level cybersecurity role (SOC Analyst / Security Analyst)** while leveraging my strong background in EDI and enterprise environments.
 
 ---
 
-## 🔄 EDI & IT Background
-- Experience with **EDIFACT** and **ANSI X12**
-- Knowledge of EDI transactions and business processes
-- Focus on data integrity, availability, and accuracy
-- Exposure to enterprise IT environments
+## 🔄 EDI & Integration Background
+- Over 4 years of experience in **ANSI X12 / EDIFACT EDI**
+- EDI implementations and support using:
+  - **IBM Sterling**
+  - **SPS Commerce**
+  - **True Commerce (Foundry)**
+  - **SAP PO / SAP CPI**
+- Experience with EDI transactions:
+  - Purchase Orders (850 / ORDERS)
+  - Purchase Order Responses (855 / ORDERSP)
+  - Invoices (810)
+  - ASNs (856 / DESADV)
+- VAN and communication protocols:
+  - **AS2, SFTP, FTP**
+- File formats and data structures:
+  - XML, JSON, IDOCs
+- API integrations (SOAP & REST)
 
-This experience strengthens my cybersecurity perspective, especially in areas related to **data protection and operational security**.
+This experience reinforces my cybersecurity perspective, particularly in **data integrity, availability, secure communications, and enterprise operations**.
 
 ---
 
 ## 🛠️ Tools & Technologies
-- **EDI:** EDIFACT, ANSI X12  
-- **Cybersecurity Concepts:** CIA Triad, NIST CSF, Risk Management  
-- **Systems:** Linux fundamentals  
-- **Other:** GitHub, Markdown  
-- **Currently learning:** SIEM concepts, incident response basics  
+### Cybersecurity & IT
+- Linux | Windows Server | MacOS
+- SIEM fundamentals
+- Python | Jupyter Notebook
+- SQL (Oracle 11g)
+- ISO 27001
+- ITIL v4 | Scrum
+
+### Integration & EDI
+- ANSI X12 | EDIFACT
+- IBM Sterling | SPS Commerce | True Commerce
+- SAP PO | SAP CPI | SAP S/4HANA
+- APIs (SOAP / REST)
+- AS2 | SFTP | FTP
 
 ---
 
-## 📁 What You’ll Find Here
-- Cybersecurity portfolio projects
-- Labs and hands-on exercises
-- Security documentation and reports
-- Professional statement and learning notes
+## 📁 What You’ll Find in My GitHub
+- Cybersecurity learning projects and labs
+- Log analysis and security documentation
+- Risk assessment exercises
+- EDI-related technical documentation
+- Integration and security notes
+- Professional statement and portfolio evidence
