@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="assets/banner.png" alt="Welcome Banner" />
-</p>
+
 
 # 👋 Hi, I'm Eber Rosas
 
