@@ -1,4 +1,9 @@
-# 👋 Hi, I'm Eber (Yafte) Rosas
+<p align="center">
+  <img src="assets/banner.png" alt="Welcome Banner" />
+</p>
+
+# 👋 Hi, I'm Eber Rosas
+
 
 🎓 **Systems and Communications Engineer**  
 💼 **EDI Support Engineer / EDI Mapping System Analyst**  
