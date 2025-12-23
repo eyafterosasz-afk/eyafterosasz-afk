@@ -1,4 +1,6 @@
-
+<p align="center">
+  <img src="https://github.com/eyafterosasz-afk/eyafterosasz-afk/blob/main/banner.png?raw=true" alt="Welcome to my GitHub" width="100%" />
+</p>
 
 # 👋 Hi, I'm Eber Rosas
 
