@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/eyafterosasz-afk/eyafterosasz-afk/blob/main/banner.png?raw=true" alt="Welcome to my GitHub" width="80%" />
+  <img src="https://github.com/eyafterosasz-afk/eyafterosasz-afk/blob/main/banner.png?raw=true" alt="Welcome to my GitHub" width="900"/>
 </p>
 
 # 👋 Hi, I'm Eber Rosas
